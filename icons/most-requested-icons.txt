@@ -1,28 +1,10 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: ShareMe                  Requested: 15
-<item component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen}" drawable="shareme"/>
--------------------------------------------------------
 Icon: Galer                    Requested: 15
 <item component="ComponentInfo{c3}" drawable="galer"/>
 -------------------------------------------------------
-Icon: GCash                    Requested: 15
-<item component="ComponentInfo{com.globe.gcash.android/gcash.module.splashscreen.mvp.view.SplashScreenActivity}" drawable="gcash"/>
--------------------------------------------------------
 Icon: Games                    Requested: 14
 <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="games"/>
--------------------------------------------------------
-Icon: KineMaster               Requested: 14
-<item component="ComponentInfo{com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity}" drawable="kinemaster"/>
--------------------------------------------------------
-Icon: Wynk Music               Requested: 14
-<item component="ComponentInfo{com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity}" drawable="wynk_music"/>
--------------------------------------------------------
-Icon: Photomath                Requested: 13
-<item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="photomath"/>
--------------------------------------------------------
-Icon: Estilos de Volumen       Requested: 13
-<item component="ComponentInfo{com.tombayley.volumepanel/com.tombayley.volumepanel.app.ui.home.MainActivity}" drawable="estilos_de_volumen"/>
 -------------------------------------------------------
 Icon: Mi Control Center        Requested: 13
 <item component="ComponentInfo{com.treydev.micontrolcenter/com.treydev.shades.activities.MainActivity}" drawable="mi_control_center"/>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="xiaomi_shareme.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>shareme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2498"
+     inkscape:window-height="1421"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="3.7123106"
+     inkscape:cx="105.47531"
+     inkscape:cy="113.23512"
+     inkscape:window-x="2617"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#86c2fb;}.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style>
+  </defs>
+  <title
+     id="title6">shareme</title>
+  <rect
+     class="cls-1"
+     x="21.719454"
+     y="22.179482"
+     width="147.63104"
+     height="147.63104"
+     rx="25.596329"
+     id="rect8"
+     style="fill:#8fddfb;fill-opacity:1;stroke:none;stroke-width:0.885;stroke-miterlimit:4;stroke-dasharray:none"
+     ry="25.596329"
+     inkscape:label="bg" />
+  <path
+     id="path864-3"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 109.71311,66.734165 c 7.48705,-7.487051 17.83032,-12.117887 29.25517,-12.117886 22.8497,2e-6 41.37306,18.523349 41.37306,41.373058 0,22.849703 -18.52336,41.373053 -41.37306,41.373053 -22.84971,0 -35.51003,-11.5143 -43.433304,-41.367391 C 87.611702,66.141903 74.951868,54.627602 52.102159,54.627603 c -22.849708,0 -41.373057,18.523349 -41.373057,41.373058 0,22.849709 18.523349,41.373059 41.373057,41.373059 11.424855,0 21.768119,-4.63084 29.255171,-12.11789"
+     sodipodi:nodetypes="cssszsssc"
+     inkscape:label="infinity" />
+</svg>

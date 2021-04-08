@@ -880,12 +880,6 @@
 	<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
 	<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="termux"/>
 
-	<!---theme_chooser-->
-	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="theme_chooser" />
-	<item component="ComponentInfo{com.cyngn.themestore/com.cyngn.themestore.ui.StoreActivity}" drawable="theme_chooser"/>
-	<item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="theme_chooser" />
-	<item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="theme_chooser" />
-
 	<!---lucky_patcher-->
 	<item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}" drawable="lucky_patcher"/>
 
@@ -6698,11 +6692,20 @@
 	<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>
 	<item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.GameBoxActivity}" drawable="game_space"/>
 
+	<!-- generic bank uk -->
+	<item component="ComponentInfo{com.grppl.android.shell.CMBlloydsTSB73/com.halifax.halifax.GrappleActivity}" drawable="generic_bank_uk"/>
+	<item component="ComponentInfo{com.lloydsbank.businessmobile/com.halifax.halifax.GrappleActivity}" drawable="generic_bank_uk"/>
+	<item component="ComponentInfo{co.uk.getmondo/co.uk.getmondo.splash.SplashActivity}" drawable="generic_bank_uk"/>
+
 	<!-- gcash -->
 	<item component="ComponentInfo{com.globe.gcash.android/gcash.module.splashscreen.mvp.view.SplashScreenActivity}" drawable="gcash"/>
 
 	<!-- google go -->
 	<item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go"/>
+
+	<!-- huawei/htc themes -->
+	<item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}" drawable="hw_htc_themes"/>
+	<item component="ComponentInfo{com.htc.launcher/com.htc.themepicker.AssetBrowsingActivity}" drawable="hw_htc_themes"/>
 
 	<!-- infinity for reddit -->
 	<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity_for_reddit"/>
@@ -6734,6 +6737,10 @@
 	<!-- photomath -->
 	<item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="photomath" />
 
+	<!-- screen recorder -->
+	<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="screen_recorder"/>
+	<item component="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}" drawable="screen_recorder"/>
+
 	<!-- shopee -->
 	<item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 	<item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
@@ -6747,6 +6754,13 @@
 	
 	<!-- soundhound -->
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound"/>
+
+	<!-- theme manager -->
+	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="generic_theme_manager" />
+	<item component="ComponentInfo{com.cyngn.themestore/com.cyngn.themestore.ui.StoreActivity}" drawable="generic_theme_manager"/>
+	<item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="generic_theme_manager" />
+	<item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="generic_theme_manager" />
+	<item component="ComponentInfo{app.akilesh.qacc/app.akilesh.qacc.ui.LaunchActivity}" drawable="generic_theme_manager"/>
 
 	<!-- volume styles -->
 	<item component="ComponentInfo{com.tombayley.volumepanel/com.tombayley.volumepanel.app.ui.home.MainActivity}" drawable="volume_styles"/>

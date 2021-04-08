@@ -9,9 +9,6 @@ Icon: Games                    Requested: 14
 Icon: Mi Control Center        Requested: 13
 <item component="ComponentInfo{com.treydev.micontrolcenter/com.treydev.shades.activities.MainActivity}" drawable="mi_control_center"/>
 -------------------------------------------------------
-Icon: To Do                    Requested: 12
-<item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="to_do"/>
--------------------------------------------------------
 Icon: Genshin Impact           Requested: 12
 <item component="ComponentInfo{com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity}" drawable="genshin_impact"/>
 -------------------------------------------------------
@@ -23,10 +20,6 @@ Icon: Subway Surf              Requested: 12
 -------------------------------------------------------
 Icon: Muzio Player             Requested: 12
 <item component="ComponentInfo{com.shaiban.audioplayer.mplayer/com.shaiban.audioplayer.mplayer.ui.activities.SplashActivity}" drawable="muzio_player"/>
--------------------------------------------------------
-Icon: Screen Recorder          Requested: 11
-<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="screen_recorder"/>
-<item component="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}" drawable="screen_recorder"/>
 -------------------------------------------------------
 Icon: Temas                    Requested: 11
 <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}" drawable="temas"/>

@@ -6667,6 +6667,10 @@
 	<!-- aptoide -->
 	<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.MainActivity}" drawable="aptoide"/>
 	
+	<!-- bbva -->
+	<item component="ComponentInfo{com.bancomer.mbanking/com.bbva.bgm.loginui.activity.SplashActivityDefault}" drawable="bbva"/>
+	<item component="ComponentInfo{com.bbva.bbvacontigo/com.bbva.woody.phone.modules.initial.splash.view.SplashActivity}" drawable="bbva"/>
+
 	<!-- blackplayer -->
 	<item component="ComponentInfo{com.kodarkooperativet.blackplayer/com.kodarkooperativet.blackplayer.activities.ViewPagerActivity}" drawable="blackplayer"/>
 	<item component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="blackplayer"/>

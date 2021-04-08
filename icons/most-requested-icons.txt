@@ -21,10 +21,6 @@ Icon: Subway Surf              Requested: 12
 Icon: Muzio Player             Requested: 12
 <item component="ComponentInfo{com.shaiban.audioplayer.mplayer/com.shaiban.audioplayer.mplayer.ui.activities.SplashActivity}" drawable="muzio_player"/>
 -------------------------------------------------------
-Icon: Temas                    Requested: 11
-<item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}" drawable="temas"/>
-<item component="ComponentInfo{com.htc.launcher/com.htc.themepicker.AssetBrowsingActivity}" drawable="temas"/>
--------------------------------------------------------
 Icon: PES 2021                 Requested: 11
 <item component="ComponentInfo{jp.konami.pesam/com.epicgames.ue4.SplashActivity}" drawable="pes_2021"/>
 -------------------------------------------------------

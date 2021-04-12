@@ -6766,6 +6766,9 @@
 	<item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="generic_theme_manager" />
 	<item component="ComponentInfo{app.akilesh.qacc/app.akilesh.qacc.ui.LaunchActivity}" drawable="generic_theme_manager"/>
 
+	<!-- v live -->
+	<item component="ComponentInfo{com.naver.vapp/com.naver.vapp.ui.home.HomeActivity}" drawable="v_live"/>
+
 	<!-- volume styles -->
 	<item component="ComponentInfo{com.tombayley.volumepanel/com.tombayley.volumepanel.app.ui.home.MainActivity}" drawable="volume_styles"/>
 

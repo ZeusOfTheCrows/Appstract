@@ -1,3 +1,4 @@
+
 TOP ICONS:
 -------------------------------------------------------
 Icon: Galer                    Requested: 15
@@ -27,18 +28,11 @@ Icon: PES 2021                 Requested: 11
 Icon: Ayuda del dispositivo    Requested: 11
 <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.main.start.LaunchActivity}" drawable="ayuda_del_dispositivo"/>
 -------------------------------------------------------
-Icon: BBVA                     Requested: 11
-<item component="ComponentInfo{com.bancomer.mbanking/com.bbva.bgm.loginui.activity.SplashActivityDefault}" drawable="bbva"/>
-<item component="ComponentInfo{com.bbva.bbvacontigo/com.bbva.woody.phone.modules.initial.splash.view.SplashActivity}" drawable="bbva"/>
--------------------------------------------------------
 Icon: AppGallery               Requested: 10   
 <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery"/>
 -------------------------------------------------------
 Icon: DiDi                     Requested: 10
 <item component="ComponentInfo{com.didiglobal.passenger/com.didi.sdk.app.DidiLoadDexActivity}" drawable="didi"/>
--------------------------------------------------------
-Icon: V LIVE                   Requested: 10
-<item component="ComponentInfo{com.naver.vapp/com.naver.vapp.ui.home.HomeActivity}" drawable="v_live"/>
 -------------------------------------------------------
 Icon: Samsung Members          Requested: 10
 <item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_members"/>
